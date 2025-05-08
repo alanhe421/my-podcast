@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <item>
       <title>第一期：测试音频</title>
-      <enclosure url="https://static.1991421.cn/podcasts/我的个人博客.wav" length="12345678" type="audio/mpeg"/>
+      <enclosure url="https://static.1991421.cn/podcasts/我的个人博客.wav" type="audio/wav"/>
       <guid>001</guid>
       <pubDate>Fri, 01 May 2025 12:00:00 GMT</pubDate>
     </item>
