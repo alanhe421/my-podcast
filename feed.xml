@@ -5,6 +5,7 @@
     <link>https://1991421.cn/podcast/</link>
     <description>这是我自己用的播客</description>
     <language>zh-cn</language>
+    <itunes:image href="https://1991421.cn/uploads/android-chrome-512x512.png"/>
     <item>
       <title>第一期：测试音频</title>
       <enclosure url="https://static.1991421.cn/podcasts/我的个人博客.wav" type="audio/wav"/>
