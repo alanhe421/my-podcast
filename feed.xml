@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>我的私人播客</title>
+    <link>https://1991421.cn/podcast/</link>
+    <description>这是我自己用的播客</description>
+    <language>zh-cn</language>
+    <item>
+      <title>第一期：测试音频</title>
+      <enclosure url="https://notebooklm.google.com/notebook/3563b7dc-fd38-456e-a009-895561bc8cfe/audio" length="12345678" type="audio/mpeg"/>
+      <guid>001</guid>
+      <pubDate>Fri, 01 May 2025 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
